@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Francesco Curcio and I'm an Artificial Intelligence & Machine Learning student at University of Calabria (IT) and a Computer Engineering fellow graduate</h2>
+<h2 align="left">Hi 👋! My name is Francesco Curcio</h2>
 
 ###
 
