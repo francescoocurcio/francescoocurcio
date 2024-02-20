@@ -10,7 +10,11 @@
 
 ###
 
-- 🌱 I’m currently learning about Data Mining, Big Data, Artificial Intelligence Languages and Ethical & IT legal aspects.
+- 🌱 I’m currently learning about:
+  -  Data Mining
+  -  Big Data
+  -  Artificial Intelligence Languages
+  -  Ethical & IT legal aspects
 
 ###
 
