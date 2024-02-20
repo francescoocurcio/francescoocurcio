@@ -10,6 +10,10 @@
 
 ###
 
+- 🌱 I’m currently learning about Data Mining, Big Data, Artificial Intelligence Languages and Ethical & IT legal aspects.
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
