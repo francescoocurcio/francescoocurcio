@@ -11,10 +11,10 @@
 ###
 
 - 🌱 I’m currently learning about:
-  -  Data Mining
-  -  Big Data
-  -  Artificial Intelligence Languages
-  -  Ethical & IT legal aspects
+  - Natural Language Processing & Social Media Analisys
+  - Computer Vision
+  - Knowledge Rapresentation
+  - Machine and Deep Learning
 
 ###
 
