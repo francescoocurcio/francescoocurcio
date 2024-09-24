@@ -11,7 +11,7 @@
 ###
 
 - 🌱 I’m currently learning about:
-  - Natural Language Processing & Social Media Analisys
+  - Information Retrieval and Natural Language Processing
   - Computer Vision
   - Knowledge Rapresentation
   - Machine and Deep Learning
