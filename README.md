@@ -12,7 +12,6 @@
 
 - 🌱 I’m currently learning about:
   - Social Media Analysis e Media
-  - Optimization
 
 ###
 
