@@ -10,11 +10,6 @@
 
 ###
 
-- 🌱 I’m currently learning about:
-  - Social Media Analysis e Media
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
